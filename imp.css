@@ -1,0 +1,65 @@
+/* Apply some basic styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+
+    background-color: #f2f2f2;
+    background-image: url("https://wallpaperaccess.com/full/42332.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* Style the heading elements */
+  h1 {
+    font-size: 40px;
+    color: rgb(115, 11, 135);
+    margin-top: 40px;
+    margin-left: 500px;
+  }
+  
+  h2 {
+    font-size: 25px;
+    color: rgb(237, 14, 185);
+    margin-left: 450px;
+  }
+
+  h3 {
+    font-size: 25px;
+    color: rgb(236, 239, 7);
+    margin-left: 450px;
+  }
+  p {
+    font-size: 18px;
+    color: rgb(237, 14, 185);
+    margin-left: 450px;
+  }
+  
+  /* Style the input fields */
+  input[type="number"] {
+    padding: 5px;
+    font-size: 20px;
+    border: 3px solid rgb(169, 12, 237);
+    border-radius: 4px;
+    margin-left: 450px;
+  }
+  
+  /* Style the button */
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #e711b5ef;
+    color: floralwhite;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 695px;
+  }
+  
+  /* Style the result text */
+  #finalScoreResult {
+    font-size: 25px;
+    color: rgb(217, 234, 30);
+    margin-top: 10px;
+  }
